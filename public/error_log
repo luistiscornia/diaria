@@ -1,0 +1,22 @@
+[09-Sep-2023 15:59:56 America/La_Paz] PHP Fatal error:  Cannot use $this as lexical variable in /home/sigplan3/public_html/app/Http/Livewire/Planillas/Lista.php on line 144
+[12-Sep-2023 15:15:02 America/La_Paz] PHP Fatal error:  Cannot redeclare App\Http\Livewire\Planillas\Lista::headerConfig() in /home/sigplan3/public_html/app/Http/Livewire/Planillas/Lista.php on line 66
+[12-Sep-2023 19:11:00 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/sigplan3/public_html/public/script.php on line 2
+[12-Sep-2023 19:11:07 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/sigplan3/public_html/public/script.php on line 2
+[12-Sep-2023 19:14:36 America/Argentina/Buenos_Aires] PHP Warning:  Use of undefined constant mpdf - assumed 'mpdf' (this will throw an Error in a future version of PHP) in /home/sigplan3/public_html/public/script.php on line 2
+[12-Sep-2023 19:14:36 America/Argentina/Buenos_Aires] PHP Warning:  Use of undefined constant mpdf - assumed 'mpdf' (this will throw an Error in a future version of PHP) in /home/sigplan3/public_html/public/script.php on line 2
+[12-Sep-2023 19:14:36 America/Argentina/Buenos_Aires] PHP Warning:  A non-numeric value encountered in /home/sigplan3/public_html/public/script.php on line 2
+[12-Sep-2023 19:14:36 America/Argentina/Buenos_Aires] PHP Warning:  A non-numeric value encountered in /home/sigplan3/public_html/public/script.php on line 2
+[12-Sep-2023 19:14:36 America/Argentina/Buenos_Aires] PHP Warning:  Division by zero in /home/sigplan3/public_html/public/script.php on line 2
+[12-Sep-2023 19:14:36 America/Argentina/Buenos_Aires] PHP Warning:  require(NAN): failed to open stream: No such file or directory in /home/sigplan3/public_html/public/script.php on line 2
+[12-Sep-2023 19:14:36 America/Argentina/Buenos_Aires] PHP Fatal error:  require(): Failed opening required 'NAN' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sigplan3/public_html/public/script.php on line 2
+[12-Sep-2023 19:14:53 America/Argentina/Buenos_Aires] PHP Warning:  Use of undefined constant mpdf - assumed 'mpdf' (this will throw an Error in a future version of PHP) in /home/sigplan3/public_html/public/script.php on line 2
+[12-Sep-2023 19:14:53 America/Argentina/Buenos_Aires] PHP Warning:  Use of undefined constant mpdf - assumed 'mpdf' (this will throw an Error in a future version of PHP) in /home/sigplan3/public_html/public/script.php on line 2
+[12-Sep-2023 19:14:53 America/Argentina/Buenos_Aires] PHP Warning:  A non-numeric value encountered in /home/sigplan3/public_html/public/script.php on line 2
+[12-Sep-2023 19:14:53 America/Argentina/Buenos_Aires] PHP Warning:  A non-numeric value encountered in /home/sigplan3/public_html/public/script.php on line 2
+[12-Sep-2023 19:14:53 America/Argentina/Buenos_Aires] PHP Warning:  Division by zero in /home/sigplan3/public_html/public/script.php on line 2
+[12-Sep-2023 19:14:53 America/Argentina/Buenos_Aires] PHP Warning:  require(NAN): failed to open stream: No such file or directory in /home/sigplan3/public_html/public/script.php on line 2
+[12-Sep-2023 19:14:53 America/Argentina/Buenos_Aires] PHP Fatal error:  require(): Failed opening required 'NAN' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sigplan3/public_html/public/script.php on line 2
+[13-Jan-2024 22:22:21 America/Argentina/Buenos_Aires] PHP Fatal error:  Cannot redeclare App\Http\Livewire\Planillas\Lista::headerConfig() in /home/sigsistema/public_html/diaria/app/Http/Livewire/Planillas/Lista.php on line 80
+[13-Jan-2024 22:29:39 America/Argentina/Buenos_Aires] PHP Fatal error:  Cannot redeclare App\Http\Livewire\Planillas\Lista::headerConfig() in /home/sigsistema/public_html/diaria/app/Http/Livewire/Planillas/Lista.php on line 80
+[22-Feb-2024 10:16:43 America/Argentina/Buenos_Aires] PHP Fatal error:  Cannot use App\Models\Historial as Historial because the name is already in use in /home/sigsistema/public_html/diaria/app/Http/Livewire/Planillas/Lista.php on line 18
+[22-Feb-2024 10:17:15 America/Argentina/Buenos_Aires] PHP Fatal error:  Cannot redeclare App\Http\Livewire\Planillas\Lista::verDetalles() in /home/sigsistema/public_html/diaria/app/Http/Livewire/Planillas/Lista.php on line 330
